@@ -1,0 +1,7 @@
+{
+  "name": "V-Inventory Pro",
+  "description": "Sistema integral de inventario y ventas con soporte multimoneda (VES, USD, EUR, USDT) diseñado para el mercado venezolano.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
